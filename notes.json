@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Shark"
+    },
+    {
+      "id": 1,
+      "name": "Ship"
+    },
+    {
+      "id": 2,
+      "name": "Submarine"
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
